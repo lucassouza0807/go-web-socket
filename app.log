@@ -1,0 +1,10 @@
+2025/01/28 20:07:45 db_config.go:16: Erro ao carregar o arquivo .env: open .env: The system cannot find the file specified.
+2025/01/28 20:08:19 db_config.go:29: Erro ao conectar ao banco de dados SQLite: Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub
+2025/01/28 20:11:11 db_config.go:29: Erro ao conectar ao banco de dados SQLite: Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub
+2025/01/28 20:12:30 db_config.go:29: Erro ao conectar ao banco de dados SQLite: Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub
+2025/01/28 20:15:23 db_config.go:29: Erro ao conectar ao banco de dados SQLite: Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub
+2025/01/28 21:34:00 userController.go:50: Error while creating user: Error 1062 (23000): Duplicate entry 'lucassouza0807' for key 'users.uni_users_username'
+2025/01/29 00:13:22 userController.go:122: Error while creating user: Error 1062 (23000): Duplicate entry 'lucassouza0807' for key 'users.uni_users_username'
+2025/01/30 14:21:49 db_config.go:33: Erro ao conectar ao banco de dados: Error 1040: Too many connections
+2025/01/30 14:21:49 socket.go:105: Erro ao conectar ao banco de dados: erro ao conectar ao banco de dados: Error 1040: Too many connections
+2025/01/31 17:15:22 userController.go:190: Error while creating user: Error 1062 (23000): Duplicate entry 'edna0807' for key 'users.uni_users_username'
